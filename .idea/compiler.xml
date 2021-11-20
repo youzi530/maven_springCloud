@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaService" />
+        <module name="eurekaService4" />
+        <module name="springcloud-eureka" />
+        <module name="provider" />
+        <module name="springcloud-service-provider" />
+        <module name="consumer4" />
+        <module name="consumer3" />
+        <module name="springcloud-service-consumer" />
+        <module name="consumer" />
+        <module name="provider3" />
+        <module name="eurekaService3" />
+        <module name="provider4" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer" target="1.8" />
+      <module name="consumer3" target="1.8" />
+      <module name="consumer4" target="1.8" />
+      <module name="eurekaService" target="1.8" />
+      <module name="eurekaService3" target="1.8" />
+      <module name="eurekaService4" target="1.8" />
+      <module name="provider" target="1.8" />
+      <module name="provider3" target="1.8" />
+      <module name="provider4" target="1.8" />
+      <module name="springcloud-eureka" target="1.8" />
+      <module name="springcloud-service-consumer" target="1.8" />
+      <module name="springcloud-service-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer" options="-parameters" />
+      <module name="consumer3" options="-parameters" />
+      <module name="consumer4" options="-parameters" />
+      <module name="eurekaService" options="-parameters" />
+      <module name="eurekaService3" options="-parameters" />
+      <module name="eurekaService4" options="-parameters" />
+      <module name="provider" options="-parameters" />
+      <module name="provider3" options="-parameters" />
+      <module name="provider4" options="-parameters" />
+      <module name="springcloud-eureka" options="-parameters" />
+      <module name="springcloud-service-consumer" options="-parameters" />
+      <module name="springcloud-service-provider" options="-parameters" />
+    </option>
+  </component>
+</project>
