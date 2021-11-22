@@ -1,0 +1,22 @@
+
+fegin的远程调用eruka
+1、引入依赖
+
+2、覆盖配置
+
+3、在消费者引导类上添加@EnableFeignClients
+
+4、然后在消费中添加代码：
+    a、定义一个接口
+    b、在接口中添加@FeignClient("service-provider")
+    c、 在接口中定义接口方法， 跟服务提供方的方法一致
+    d、通过autowired注入接口的动态代理对象使用
+
+
+fegin的熔断：
+1、覆盖配置：
+    feign:
+      hystrix:
+        enabled:true
+2、给fegin接口添加实现类
+3、在接口注解内添加了属性@FeignClient(value = "service-provider",fallback = UserClientFallback.class)

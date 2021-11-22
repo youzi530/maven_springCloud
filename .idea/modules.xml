@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/springcloud-02EurekaServer/consumer/consumer.iml" filepath="$PROJECT_DIR$/springcloud-02EurekaServer/consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-03Robbin/consumer3/consumer3.iml" filepath="$PROJECT_DIR$/springcloud-03Robbin/consumer3/consumer3.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-04Hystix/consumer4/consumer4.iml" filepath="$PROJECT_DIR$/springcloud-04Hystix/consumer4/consumer4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-05Feign/consumer5/consumer5.iml" filepath="$PROJECT_DIR$/springcloud-05Feign/consumer5/consumer5.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-02EurekaServer/eurekaService/eurekaService.iml" filepath="$PROJECT_DIR$/springcloud-02EurekaServer/eurekaService/eurekaService.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-03Robbin/eurekaService3/eurekaService3.iml" filepath="$PROJECT_DIR$/springcloud-03Robbin/eurekaService3/eurekaService3.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-04Hystix/eurekaService4/eurekaService4.iml" filepath="$PROJECT_DIR$/springcloud-04Hystix/eurekaService4/eurekaService4.iml" />
@@ -13,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/springcloud-02EurekaServer/provider/provider.iml" filepath="$PROJECT_DIR$/springcloud-02EurekaServer/provider/provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-03Robbin/provider3/provider3.iml" filepath="$PROJECT_DIR$/springcloud-03Robbin/provider3/provider3.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-04Hystix/provider4/provider4.iml" filepath="$PROJECT_DIR$/springcloud-04Hystix/provider4/provider4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-05Feign/provider5/provider5.iml" filepath="$PROJECT_DIR$/springcloud-05Feign/provider5/provider5.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-02EurekaServer/springcloud-02EurekaServer.iml" filepath="$PROJECT_DIR$/springcloud-02EurekaServer/springcloud-02EurekaServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-03Robbin/springcloud-03Robbin.iml" filepath="$PROJECT_DIR$/springcloud-03Robbin/springcloud-03Robbin.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-04Hystix/springcloud-04Hystix.iml" filepath="$PROJECT_DIR$/springcloud-04Hystix/springcloud-04Hystix.iml" />
