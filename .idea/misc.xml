@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/springcloud-04Hystix/consumer4/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-04Hystix/eurekaService4/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-04Hystix/provider4/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-05Feign/eurekaService5/pom.xml" />
       </list>
     </option>
   </component>
